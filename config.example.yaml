@@ -1,0 +1,9 @@
+app_name: Cloud Vulnerability Scanner
+app_env: dev
+log_level: INFO
+aws_region: us-east-1
+database_url: sqlite:///./scanner.db
+reports_dir: ./reports
+scan_s3_enabled: true
+scan_iam_enabled: true
+scan_ec2_enabled: true
