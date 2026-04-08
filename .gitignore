@@ -5,3 +5,6 @@ __pycache__/
 scanner.db
 reports/
 .pytest_cache/
+
+data/chat_history.json
+logs/security_events.jsonl
